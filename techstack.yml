@@ -2,7 +2,7 @@ repo_name: piranna/domain-browser
 report_id: 75983df857ef16a30234ab8eccece1f0
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-27T06:18:46+00:00'
+timestamp: '2024-01-05T08:15:08+00:00'
 requested_by: piranna
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/piranna/domain-browser
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/piranna/domain-browser
   detection_source: Repo Metadata
 - name: Chai
   description: A BDD / TDD assertion library
@@ -50,6 +52,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/piranna/domain-browser
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -60,6 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/piranna/domain-browser/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Benjamin Lupton
   last_updated_on: 2014-06-07 21:03:33.000000000 Z
@@ -71,6 +75,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/piranna/domain-browser/blob/master/package.json
   detection_source: package.json
   last_updated_by: Benjamin Lupton
   last_updated_on: 2013-09-18 07:53:38.000000000 Z
