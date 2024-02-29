@@ -1,0 +1,96 @@
+repo_name: piranna/domain-browser
+report_id: 75983df857ef16a30234ab8eccece1f0
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:11:39+00:00'
+requested_by: piranna
+provider: github
+branch: master
+detected_tools_count: 7
+tools:
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/piranna/domain-browser
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/piranna/domain-browser
+  detection_source: Repo Metadata
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 1.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/piranna/domain-browser/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Benjamin Lupton
+  last_updated_on: 2013-09-18 07:53:38.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/piranna/domain-browser
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/piranna/domain-browser/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Benjamin Lupton
+  last_updated_on: 2014-06-07 21:03:33.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/piranna/domain-browser/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Benjamin Lupton
+  last_updated_on: 2013-09-18 07:53:38.000000000 Z
+- name: projectz
+  description: Stop wasting time syncing and updating your project's README and Package
+    Files!
+  package_url: https://www.npmjs.com/projectz
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18301/default_d05de2d31ff2708c984b6c11ea3c9ff07c2a4764.png
+  detection_source_url: https://github.com/piranna/domain-browser/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Benjamin Lupton
+  last_updated_on: 2013-12-27 12:52:22.000000000 Z
